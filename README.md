@@ -14,7 +14,7 @@
 # Screenshots
 
 <div align="left">
-<img src="https://github.com/Isaac2109/Projeto-FakePinterest/assets/113056042/a14b5ec9-becd-41e5-99c2-f68a1b3e742d" width="500px" />
+<img src="https://github.com/Isaac2109/Projeto-FakePinterest/assets/113056042/f32f4aad-789a-424b-9194-a9d1c83e0b1f" width="500px" />
 
 
 
